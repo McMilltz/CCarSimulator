@@ -1,5 +1,6 @@
-#include <iostream>
+#include <SDL2/SDL.h>
+#include <stdio.h>
 
 int main(){
-  std::cout << "hello there.\n";
+printf("Hello World!\n");
 }
